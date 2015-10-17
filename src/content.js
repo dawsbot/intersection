@@ -1,6 +1,12 @@
 //this will be browserified
 var bayes = require('bayes');
 
+
+
+
+
+
+
 var elements = document.getElementsByTagName('*');
 console.log('hello world');
 for (var i = 0; i < elements.length; i++) {
