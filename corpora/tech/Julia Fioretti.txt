@@ -1,0 +1,22 @@
+Companies could face action from European privacy regulators if the European Commission and United States do not come up with a new system enabling them to shuffle data across the Atlantic in three months, the regulators said on Friday.
+
+The highest EU court last week struck down a system known as Safe Harbour used by over 4,000 firms to transfer personal data to the United States, leaving companies without alternatives scrambling to put new legal measures in place to ensure everyday business could continue.
+
+Under EU data protection law, companies cannot transfer EU citizens' personal data to countries outside the EU deemed to have insufficient privacy safeguards, of which the United States is one.
+
+EU data protection authorities meeting in Brussels to assess the implications of the ruling, said in a statement that they would assess the impact of the judgment on other data transfer systems, such as binding corporate rules and model clauses between companies.
+
+"If by the end of January 2016, no appropriate solution is found with the U.S. authorities and depending on the assessment of the transfer tools by the Working Party, EU data protection authorities are committed to take all necessary and appropriate actions, which may include coordinated enforcement actions," the watchdogs said in a statement.
+
+The Commission and the United States have been in talks for two years to reform Safe Harbour after former U.S. National Security Agency contractor Edward Snowden revealed the existence of mass U.S. government surveillance programs.
+
+Talks have been hampered by the difficulty of extracting sufficient guarantees that U.S. authorities' access to personal data would be limited and proportionate.
+
+The regulators said in their statement the EU and the United States should negotiate an "intergovernmental agreement" providing stronger privacy guarantees to EU citizens, including oversight on government access to data and legal redress mechanisms.
+
+Multinationals can set up internal privacy rules which have to be approved by regulators to transfer data to the United States, known as binding corporate rules. However, only about 70 companies currently use this system.
+
+Lawyers have said alternative data transfer systems could also be at risk to legal challenge since they do not provide stronger protection against U.S. government snooping than Safe Harbour did.
+
+"The good news is that the European data protection authorities have agreed on a kind of grace period until the end of January," said Monika Kuschewsky, a lawyer at Covington & Burling.
+
