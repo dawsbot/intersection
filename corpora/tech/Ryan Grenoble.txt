@@ -1,0 +1,23 @@
+These days, even hackers will nickel and dime you.
+
+That's according to a report released Thursday by Intel Security Group's McAfee Labs, which found login credentials to an online video streaming website can be bought for as little as 55 cents -- slightly more than the cost of a postage stamp. (Credentials for premium cable streaming like HBO Go, meanwhile, sell for a comparatively steep $7.50.)
+
+The report investigated the murky world of buying and selling stolen digital information online, where everything from financial data and online services to a person's entire digital identity can be had -- for a price. 
+
+According to researchers who monitored the various websites, chat rooms and communities hosting these transactions, stolen credit card info goes for $5 to $8 for a basic U.S. card number, and $25 to $30 for a European Union card number:
+
+
+MCAFEE LABS
+Buyers can pay extra for access to the cardholder's full name, billing address, expiration date, PIN number, Social Security number, mother’s maiden name, date of birth, and CVV2.
+
+"A criminal in possession of the digital equivalent of the physical card can make purchases or withdrawals until the victim contacts the card issuer and challenge the charges,” Raj Samani, chief technology officer of Intel Security for Europe, the Middle East and Africa, said in a statement. “Provide that criminal with extensive personal information which can be used to ‘verify’ the identity of a card holder, or worse yet allow the thief to access the account and change the information, and the potential for extensive financial harm goes up dramatically for the individual.”
+
+Bank account logins, meanwhile, can be had for a cost of $20 to several hundred dollars, depending on the (supposed) account balance:
+
+
+MCAFEE LABS
+Researchers found entire digital identities could be purchased, potentially allowing someone to take over an innocent person's email, financial accounts and social media accounts, effectively hijacking a person's identity.
+
+In one particularly troubling instance, a criminal claimed to have access to a French hydroelectric generator and was offering access to the critical piece of infrastructure online. The hacker provided screenshots of the generator's internal software as proof, attempting to convince wary would-be buyers.
+
+“Like any unregulated, efficient economy, the cybercrime ecosystem has quickly evolved to deliver many tools and services to anyone aspiring to criminal behavior,” Samani said. “This ‘cybercrime-as-a-service’ marketplace has been a primary driver for the explosion in the size, frequency, and severity of cyber attacks. The same can be said for the proliferation of business models established to sell stolen data and make cybercrime pay.”

@@ -1,0 +1,24 @@
+Malfunctioning robots can be scary as heck -- just ask the Avengers, or the crew of Discovery One. But as it turns out, we actually tend to like flawed robots a little bit better than perfect ones.
+
+New research from the School of Computer Science at the University of Lincoln in Lincoln, England, shows that humans prefer interacting with robots that make mistakes, express "boredom" or become overexcited. In the study, participants interacted with two types of robots. In the first phase, the robots didn’t make mistakes or express "emotions," but in the second phase, both robots let loose, so to speak.
+
+A robot called ERWIN -- short for Emotional Robot With Intelligent Network -- "failed" to remember participants' names and favorite colors during the second phase, and displayed a sad expression on its face. The other robot, MyKeepon, which is small and yellow, showed "happiness" by dancing and making joyful noises, and exhibited "sadness" by making unhappy noises, looking at the ground and standing still.
+
+The researchers "overwhelmingly found" that people "paid attention for longer and actually enjoyed the fact that a robot could make common mistakes, forget facts and express more extreme emotions, just as humans can," said Mriganka Biswas, the Ph.D. student who conducted the research, in a Tuesday press release.
+
+“We believe that if we want robots to stay at our home and help us in our daily tasks then [people will need] to have some form of relationships with it,” Biswas wrote in an email to The Huffington Post. “Our study suggests to make the robot more user-friendly, more close and personal to its users by making it human-like and fallible, so that users can more easily relate.”
+
+So does this research bring us one step closer to HAL?
+
+“We think the world is completely safe from our 3D printed humanoid robot,” Biswas wrote.
+
+Still, this seems a good moment as any to consider the flaws of some notorious robots from fiction. Any conversation about rocky human-robot relations, for example, has to include the Sentinels from the Wachowskis' "Matrix" trilogy. Humans created them for cheap domestic help and manual labor. Yet in time, they took over the earth and began using humans like Duracells.
+
+
+The Cylons of "Battlestar Galactica," like the Sentinels, were created to “make life easier for man.” The Cylons are significantly better-looking than the Sentinels, but they turn out to be just as deadly. After destroying nearly all human civilization, they chase the few survivors into deep space.
+
+
+In Colossus, a 1966 science fiction classic by D.F. Jones, Dr. Charles Forbin builds the titular supercomputer in the hopes of preventing nuclear war. Things go awry when Forbin tries to make the computer self-aware, and it realizes it would be better off without human supervision. Perhaps, Forbin observes, he built the machine “better than we thought.”
+
+In our fantasies, intelligent robots don’t always result in loss of life. Sometimes they just cause heartbreak. (Poor Hoffmann.) In Spike Jonze's 2013 film "Her," Joaquin Phoenix’s character purchases and then falls in love with Samantha, a operating system whose sex appeal derives in no small part from its bedroom voice (courtesy of Scarlett Johansson). But Samantha, too, has a flaw that makes her all too human. When she feels that Phoenix's character isn't challenging her exponentially growing intellect, she leaves him.
+
