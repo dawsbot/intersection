@@ -1,0 +1,196 @@
+A few hours before a negative story about the nutritional supplement company Herbalife broke, someone made an abnormally large bet that the company's stock would drop significantly.
+
+At 3:55 p.m. on June 25, 2015 --  just five minutes before the market closed for the day -- an unknown individual made a 1-million-share derivative wager that Herbalife stock would drop. Eight seconds later, another 1-million-share derivative trade in a different, but related, type of security was made. The derivatives in both trades expired on August 21.
+
+Five hours and 54 minutes later, the New York Post published a negative story about Herbalife with the headline: "Video reveals Herbalife boss saw ‘pyramiding’ signs early on." 
+
+In July, Herbalife sent a letter to the Justice Department and the Securities and Exchange Commission contending that the timing of the trades relative to the Post's article was suspicious. The letter, which was obtained by The Huffington Post, raises concerns that an individual trader (or traders) had prior knowledge of the story. (The New York Post declined to comment for this story.)
+
+"If I were regulators, I'd want to know who placed those trades. I'd also want to know what contact they had, if any, with the Post," Richard Painter, a law professor at the University of Minnesota who specializes in securities law and enforcement, told HuffPost.
+
+"The most suspicious fact is the timing of the trade," agreed Jacob Frenkel, a former SEC enforcement lawyer and federal criminal prosecutor who is now a partner at the law firm Shulman Rogers.  
+
+The article highlighted a 2005 recording in which CEO Michael Johnson tells Herbalife's management team that parts of the company -- which uses the multi-level marketing technique made famous by Amway, Tupperware and Avon -- had been used as a vehicle for some distributors to make "false promises, claims, in hopes for product, for money, for recruiting, for customers, for pyramiding." Pyramiding refers to the practice of distributors rushing to recruit new distributors beneath them, with no regard for actual product sales or demand. Johnson went on to suggest that Herbalife should make changes to eliminate the problem. 
+
+The timing of the trade with respect to the article could be purely coincidental, and Herbalife did not present specific information to the DOJ or SEC linking any particular person or organization to the transaction. But the complaint highlights what the company sees as a pattern of suspicious trading before negative news releases, and takes place in the context of an ongoing feud between Herbalife and a hedge fund that has pledged to bring it down.
+
+Referring to unidentified traders whom the company suspects of misconduct, Herbalife spokesman Alan Hoffman told HuffPost, “Unfortunately, we have seen them run this play before and until someone acts, we will probably see it again."
+
+Herbalife's letter requests that the two agencies investigate any potential connection the trades might have to the hedge fund Pershing Square. Herbalife and Pershing Square have been at odds since late 2012, when Bill Ackman, who runs the hedge fund, announced that he had bet $1 billion that the company would fail. Ackman predicted that the stock, which was trading around $42 before his prediction, would go to zero.
+
+Since he announced his short position, Ackman and Herbalife have traded dueling barbs in the financial press, as well as through litigators, lobbyists and public relations specialists, both attempting to sway regulators in their favor. Rival hedge fund managers have lined up both with and against Ackman.
+
+The fight has at times resembled a political campaign rife with dirty tricks, and exemplifies the way shareholder activism has transformed into a very public way for billionaires to fight with each other. As The New York Times pithily put it, Ackman is “staking $1 billion that Herbalife will fail, then lobbying to bring it down.” 
+
+Ackman has called the company a "pyramid scheme" and said he will fight it "to the end of the earth." Herbalife denies Ackman's claims, and says that most people become distributors simply to buy products at a discount. In the 2005 video, after Johnson acknowledges the potential for pyramiding, he outlines changes that the company has since enacted to reduce the turnover and financial burden borne by its lowest-level distributors.
+
+Pershing Square denies any connection to the June trades. "Herbalife’s accusations are false," Pershing Square spokesman Francis McGill told HuffPost. He added that Herbalife "is a pyramid scheme that continues to harm millions of people around the world."
+
+The distinction between what constitutes a legitimate multi-level marketing business and a pyramid scheme is at the heart of a Federal Trade Commission investigation of the company. In addition, Herbalife has disclosed that the DOJ and the SEC have asked it for information about its business practices. 
+
+Meanwhile, The Wall Street Journal has reported that federal prosecutors are looking into allegations that contractors hired by Ackman to lobby against Herbalife engaged in market manipulation. 
+
+Market data shows that the June 25 trades were abnormally large. The first trade consisted of 10,000 contracts for a $40 put option expiring on Aug. 21. This is 294 times larger than the second-largest trade in the same type of derivative for the month of June, which was for only 34 contracts. For most of that month, the total number of put contracts traded each day was in the single digits.
+
+The trade that came eight seconds later, consisting of 10,000 $60 calls options, also expiring on Aug. 21, was similarly massive. The second-largest trade of that nature in June was for just 60 contracts, with most of the other trades in the low single digits.
+
+Exchange information provided by market data firm Nanex indicates that the two trades were done to create a very large position that would profit if Herbalife declined. The call trade appears to have been initiated by a seller, having been done closer to the market selling price than the buying price. The put trade seems to have been initiated by a buyer, since it was done closer to buying price than selling price. Selling the calls would have brought in $2.16 million, while buying the puts would have cost $750,000, generating an initial profit of over a million dollars.
+
+There would be more of a reason to expect larger-than-usual options trades if Herbalife's stock price had been volatile or if trading had been heavier than normal. But on the day in question, volume in Herbalife stock, while slightly elevated, wasn’t conspicuously out of the ordinary: It stood at 2.4 million shares, and its price fluctuated within the narrow range of $54.37 to $55.05.
+
+Frenkel offered an explanation for why the trade may have been made with derivatives that didn't expire for several weeks after they were purchased. "There's more of an argument, as a cover story, that this was done to hedge a position, as a way to explain an aberrational trade," he said.
+
+It wasn't only that there were eight weeks left in the lifespan of the options. In addition, Herbalife's Aug. 5 earnings report was sandwiched in between the purchase and the expiration of the options. The earnings report was an event that could very plausibly move the stock up or down, and one that any investors without any information about the Post story could reasonably want to hedge against.
+
+The volume of trade in Herbalife options was also high on June 30, with around 6,500 total derivative contracts traded, according to data from Bloomberg. However, that was the last day of the third quarter, and such volume is typical for a quarter’s end. The data indicate a comparably high volume of trading in Herbalife options toward the end of previous quarters.  
+
+On June 26, the day after the New York Post story ran, Herbalife stock fell from $55.05 to $53.75, or just 2.4 percent. In subsequent weeks, it fell as low as $48.36 but also traded as high as $60.77, following a well-received quarterly earnings report on Aug. 5. The stock closed on Aug. 21 at $56.84. If both options positions were kept open until expiration -- as open interest data indicates is the case -- whoever placed the trade would have made $1,410,000.
+
+The SEC is likely to be "all over this like a fumble at the goal line," Frenkel said, adding that the fact pattern "would be of interest to the Justice Department and likely implicate a parallel criminal investigation."
+
+The SEC and the DOJ both declined to comment for this story."Without a moral center, you will swim in chaos" -- James Burke, Former Johnson & Johnson CEO
+
+The Volkswagen scandal hit new lows this week when German-born Michael Horn, CEO of Volkswagen America, refused to acknowledge the people responsible for falsifying emissions tests on 11 million vehicles or to release essential documents. In front of the U.S. House Committee on Energy and Commerce, he chose instead to blame lower-level engineers.
+
+Does anyone really believe a scandal of this magnitude and scope was actually masterminded by a few engineers? In my experience, it would be highly unlikely for first-level engineers to take the risks inherent in such an illegal scheme and even more improbable that their superiors knew nothing about it, especially in a hierarchical organization like Volkswagen.
+
+Unfortunately, this kind of dissembling and cover-up has become all too common in corporate circles. It only serves to harm ethical companies as the public loses trust in all corporate leaders.
+It's been a bad year for organization ethics. In September United Airlines' CEO Jeff Smisek was forced to resign for cutting unethical deals with the head of the Port Authority for New York and New Jersey. Toshiba's top officials admitted to seven years of corrupt accounting. Even the soccer world was rocked when FIFA's executive committee acknowledged that corruption had reached its highest levels, and suspended president Sepp Blatter, right-hand man Jerome Valcke, and European head Michel Platini.
+
+What should organizations do when the organization is corrupt from the top down? In my new book, Discover Your True North, I address how essential it is for leaders at the top to set standards for the entire organization. Yet all too often, people on the lowest rungs of the ladder are fired or blamed for illegal activities, while the bosses protect themselves. Even when forced to resign, they walk away with large termination settlements. For example, United's Smisek received nearly $20 million in termination pay after his corrupt dealings with public officials were exposed.
+
+Every organization needs clear values that establish its principles and set firm ethical boundaries on its actions. Confronted by the 1980s Tylenol crisis, in which lethal poison was placed in Tylenol pills, former Johnson & Johnson CEO James Burke used his company's famous Credo to guide his actions. He observed, "Without a moral center, you will swim in chaos."
+
+Employees encounter many gray areas in their work. They need clarity about where to draw the line between acceptable and unacceptable actions. That's what IBM's CEO Sam Palmisano established after becoming CEO. He shifted IBM's entire 440,000 person organization - which operates in many countries where corruption is the norm -- to "Leading by Values."
+
+Former Citigroup CFO Sallie Krawcheck took a heroic action when she insisted on refunding losses to clients misled by her firm during the 2008 financial crisis. She bluntly asserted Citi broke clients' trust by pushing low-risk alternative investments that were actually high risk. When CEO Vikram Pandit vehemently disagreed, Krawcheck took her argument directly to Citi's board of directors, which backed her actions. A miffed Pandit later fired her. Krawcheck knew she could always get a job, but she recognized she couldn't recover her values.
+
+But what can be done when organizations like FIFA and Volkswagen are corrupt at the top? The only solution is to clean house at the highest levels of the organization and weed out the poison in the system. Otherwise, the organization will ultimately revert to its unethical practices.
+
+That's what Germany's Siemens did when audits revealed it paid out $1.8 billion in bribes. Board chair Heinrich von Pierer, who presided over the unethical dealings as CEO, was forced to resign. Board chair Gerhard Cromme and CEO Peter Loescher were brought in to clean up the mess. To their credit, they squarely faced the issues, terminating the company's entire executive committee and firing 400 top executives. A new governance and compliance system was established, and all employees went through extensive compliance training. It cost the firm $2.7 billion in fines and legal fees, but now Siemens is operating ethically throughout the world and has been restored to full health.
+
+FIFA and Volkswagen would be wise to follow Siemens' approach of bringing in outsiders to address their scandals, with outsiders leading the board and executive management. Their actions should include hiring new law firms and accountants to conduct independent investigations, and terminate anyone who is directly or indirectly involved with corrupt dealings. In FIFA's case, this may include current members of its governing board involved in the corruption.
+Leaders should always put the institution first. Instead, all too often organizations protect individuals until they are "proven" guilty, as Blatter's attorney is arguing FIFA should do. It is far better to separate them completely from the organization, and let the courts determine criminal culpability.
+
+Finally, transparency is essential: the board should reveal all the findings of its legal and accounting reports and make them public immediately. It is far better for the board to reveal them rather than waiting for political bodies, the media, or the courts to extract this information. By vigorously investigating its own actions and transparently sharing the findings, the organization begins to rebuild the credibility necessary to return to business.
+
+Only through aggressive, transparent actions can corrupt organizations be restored to fulfill their missions.Over the past few decades, American companies have turned away from pensions and toward 401(k) accounts to help their workers save for retirement. That's been a terrible deal, according to a new analysis released Thursday. 
+
+Senior citizens on average drew less than $1,000 from their 401(k)s and similar accounts last year, the left-leaning Economic Policy Institute found when it looked at Census data. By comparison, seniors on average received $6,000 from traditional pensions.
+
+The terrifying reminder that many people are headed for their golden years with hardly enough money to afford cat food for dinner comes at a time when politicians -- well, mostly Democrats and Sen. Bernie Sanders (I-Vt.) -- are talking about Social Security expansion again.
+
+<span class='image-component__caption' itemprop="caption">Sen. Bernie Sanders thinks we really need to expand Social Security.</span>
+JOE RAEDLE/GETTY IMAGES
+Sen. Bernie Sanders thinks we really need to expand Social Security.
+The amount seniors draw from their 401(k) accounts could edge up a little in the coming years, as the 401(k) generation heads into retirement. These plans started becoming popular in the 1980s.
+
+Still, there's little evidence that 401(k)s will be as significant a source of income for retirees as pensions were back in the day, said Monique Morrisey, an economist at the Economic Policy Institute who did the analysis.
+
+"There's very little money in these things [401(k)s]," she told HuffPost. "Yes, they're gonna increase, but not enough."
+
+The picture is bleakest for the bottom 60 percent of earners, as you can see. 
+
+
+Social Security is the primary source of retirement income for middle- and lower-income Americans.
+
+"My view is that when you have millions of seniors in this country trying to get by -- and I don't know how they do on $11,000, $12,000, $13,000 a year -- you don't cut Social Security, you expand it," Sanders said during Tuesday night's Democratic presidential debate.
+
+Sanders is looking for an across-the-board increase in Social Security benefits. His chief rival, Hillary Clinton, declined to say during the debate if she supports a similar expansion, focusing her comments on improving the situation for women and children.   
+
+"Bernie Sanders is onto something," Morrisey said.
+
+Progressive hero Sen. Elizabeth Warren (D-Mass.) has also been pressing for an expansion, joined by other Democratic senators.
+
+Meanwhile, Senate Majority Leader Mitch McConnell (R-Ky.) is talking about scaling back benefits as part of his party's ongoing effort to cut government spending.
+
+Malfunctioning robots can be scary as heck -- just ask the Avengers, or the crew of Discovery One. But as it turns out, we actually tend to like flawed robots a little bit better than perfect ones.
+
+New research from the School of Computer Science at the University of Lincoln in Lincoln, England, shows that humans prefer interacting with robots that make mistakes, express "boredom" or become overexcited. In the study, participants interacted with two types of robots. In the first phase, the robots didn’t make mistakes or express "emotions," but in the second phase, both robots let loose, so to speak.
+
+A robot called ERWIN -- short for Emotional Robot With Intelligent Network -- "failed" to remember participants' names and favorite colors during the second phase, and displayed a sad expression on its face. The other robot, MyKeepon, which is small and yellow, showed "happiness" by dancing and making joyful noises, and exhibited "sadness" by making unhappy noises, looking at the ground and standing still.
+
+The researchers "overwhelmingly found" that people "paid attention for longer and actually enjoyed the fact that a robot could make common mistakes, forget facts and express more extreme emotions, just as humans can," said Mriganka Biswas, the Ph.D. student who conducted the research, in a Tuesday press release.
+
+“We believe that if we want robots to stay at our home and help us in our daily tasks then [people will need] to have some form of relationships with it,” Biswas wrote in an email to The Huffington Post. “Our study suggests to make the robot more user-friendly, more close and personal to its users by making it human-like and fallible, so that users can more easily relate.”
+
+So does this research bring us one step closer to HAL?
+
+“We think the world is completely safe from our 3D printed humanoid robot,” Biswas wrote.
+
+Still, this seems a good moment as any to consider the flaws of some notorious robots from fiction. Any conversation about rocky human-robot relations, for example, has to include the Sentinels from the Wachowskis' "Matrix" trilogy. Humans created them for cheap domestic help and manual labor. Yet in time, they took over the earth and began using humans like Duracells.
+
+
+The Cylons of "Battlestar Galactica," like the Sentinels, were created to “make life easier for man.” The Cylons are significantly better-looking than the Sentinels, but they turn out to be just as deadly. After destroying nearly all human civilization, they chase the few survivors into deep space.
+
+
+In Colossus, a 1966 science fiction classic by D.F. Jones, Dr. Charles Forbin builds the titular supercomputer in the hopes of preventing nuclear war. Things go awry when Forbin tries to make the computer self-aware, and it realizes it would be better off without human supervision. Perhaps, Forbin observes, he built the machine “better than we thought.”
+
+In our fantasies, intelligent robots don’t always result in loss of life. Sometimes they just cause heartbreak. (Poor Hoffmann.) In Spike Jonze's 2013 film "Her," Joaquin Phoenix’s character purchases and then falls in love with Samantha, a operating system whose sex appeal derives in no small part from its bedroom voice (courtesy of Scarlett Johansson). But Samantha, too, has a flaw that makes her all too human. When she feels that Phoenix's character isn't challenging her exponentially growing intellect, she leaves him.
+
+More than seven in 10 Americans now believe in climate change, up from just over half in 2010, according to a multi-year survey by the University of Michigan. This new perspective coincides with an ethical shift that is driving change in the way we produce and consume energy worldwide.
+
+Religious leaders are calling for action, including Pope Francis who recently said a "cultural revolution" is needed to care for the planet and its people and for fossil fuels to be "progressively replaced."
+
+Last year, half a million protesters gathered in cities around the world for the People's Climate March, the largest environmental rally in history. This global action brought together diverse groups sharing a common belief: "We must change how we produce and use energy to preserve our future."
+
+This is today's "energy ethic," an ideal enabled by affordable clean energy. And it is unstoppable. As Victor Hugo once said, "You can resist an invading army; you cannot resist an idea whose time has come."
+
+The movement has extended to the capital markets, where steps to divest from fossil fuels are now common. Hundreds of financial, educational and religious institutions have signed up to exit investments in carbon-intensive industries.
+
+Meanwhile, the energy ethic and consumer behavior are amplifying each other. People are responding to today's new energy options by installing solar panels and buying electric cars; they are insulating their homes and consuming less. These are smart decisions: energy efficiency and solar panels deliver a return on investment, and electricity used for transportation is three times cheaper than gasoline. The trends are evident: in the United States, a new home or business goes solar every three minutes, and global electric car sales have doubled for each of the past three years.
+
+The democratization of energy is profound. In the past, centralized decisions made sweeping changes to our energy system slow and difficult. But now, for the first time, the power to change energy generation and consumption is in the hands of ordinary citizens. Homeowners can put solar panels on their roof; communities can put them on public buildings. As a result, affordable clean energy is growing much faster than experts predicted.
+
+Since 2008, wind energy has tripled and solar has grown tenfold. Combined, these technologies now supply five percent of the energy in the United States. Last year, half a trillion dollars were invested in new clean energy capacity worldwide. The rapid growth is not surprising; clean energy is now cost-competitive.
+
+The company I head, Apex Clean Energy, is building nearly $2 billion in wind facilities this year, which has created over 1,000 new jobs. We're working on new development projects nationwide. The fact is, wind and solar energy generation create more jobs per unit of power than fossil fuels, and the solar industry alone employs more people today than the coal industry.
+
+The energy ethic draws on values deeply held by many Americans: independence, self-reliance, and a sense of responsibility to future generations. Collectively, we are changing our energy future by adding more clean energy to the grid, using less gasoline, and embracing efficiency. These changes strengthen our energy ethic. We become more empowered, we refuse to be demoralized by climate change, and we reach for solutions we can implement today--in our own lives--to address carbon pollution.
+
+So in the campaign year ahead, question the presidential candidates on energy and climate change. Let them know that an "all of the above" energy policy is not consistent with our energy ethic. We need leaders who will put a price on carbon emissions and stop fossil fuel subsidies. Together, our collective pressure will drive change and determine outcomes.
+
+How we think and talk about energy is important. We need to share our energy ethic and the success and viability of clean energy solutions. With new technologies, individuals have the ability and responsibility to create a better energy future and a livable environment.If China fails to turbocharge its capacity to innovate, the country will experience a hard economic landing and social stability will be threatened. But can China evolve into an innovation powerhouse? The jury is out.
+
+Innovation elevates labor productivity which provides resource flexibility -- air cover -- to implement fundamental structural reforms which center on two inter-related planks: a) shifting reliance from exports and increasingly-inefficient investment to value creation in service and consumer sectors, and b) maintaining smooth urbanization in an era of pinched labor supply.
+
+The success of companies such as Alibaba, the world largest business-to-business e-commerce site, not to mention a dynamic private sector boasting millions of new online enterprises, are grounds for optimism. WeChat's micro-lending and customer relationship management (CRM) services are testaments to corporate experimentation and economic dynamism.
+
+But a commercial landscape still dominated by sclerotic state-owned enterprises locked in cozy relationships with opaque government entities suggests otherwise.
+
+The Chinese have always been masters of "incremental" innovation.
+
+More than ten years ago, I was taken on a tour of the product development laboratories of Lenovo, now one of the world's largest producers of mobile phones and personal computing devices. Engineers were proud of product enhancements such as spill-proof keyboards to 360-degree swivel screens. Chinese products' relentless crawl up value chains -- from unreliable commodities to affordable and dependable goods with new features -- is proof of intelligent perseverance.
+
+Huawei, a leading telecommunications component manufacturer, has achieved success around the world through what Joy Tan, President of Global Media and Communications, terms "step by step" innovation. In a recent panel discussion sponsored by the American Chamber of Commerce in Hong Kong, she attributed her company's overseas 3G penetration to a "small invention" that lowered site acquisition costs by reducing the size of component boxes.
+
+Lei Jun, the quintessentially imperial chief of gadget maker and "China Dream" brand du jour Xiaomi, is also a proponent of incremental -- or micro-targeted -- innovation. In a recent Wall Street Journal interview, he asserts, "In the past you made a phone, hoping to sell it to billions of users in the world. Now you can't think in this way. You'll have to design different phones for different crowds in different scenarios." In the same article, Lei Jun cites Xiaomi's newly launched model 4C, which enables better Internet connections on high-speed trains, and newly announced virtual SIM cards that offer cheap roaming rates for international travelers. He then asks, "Wouldn't you call this innovation?"
+
+Well, yes and no. It's innovation alright. But not the type of mould-breaking, value-creating innovation Lei Jun claims to admire in brands such as Muji and Uniqlo, Japanese companies that redefine "everyday style" in home furnishing and fast fashion.
+
+China needs non-incremental innovation to escape a middle-income trap and living standard stagnation. The country's growth model is bogged down by structural tensions -- recently manifested as abrupt exchange rate lurches, worrying capital outflows and ham-handed stock market interventions.
+
+"Innovation traditionalism" is no longer enough.
+
+China's economy, not to mention its burgeoning middle class, demands qualitative, not quantitative, evolution. This will require a gradual, albeit fundamental, shift corporate mindset that reveres low price as the ultimate competitive advantage. Industry and government leaders must now focus on margin elevation.
+
+This is not happening, even in new generation sectors. Scores of "online to offline" apps have lost funding because of price war burn out. Theoretically, these services put excess human capital to more productive use and could become platforms of mold-breaking innovation. But most still root appeal in satisfying the Middle Kingdom's most timeless urge: bargain hunting.
+
+I am neither economist or political scientist. Many are more qualified to limn the structural barriers that preclude liberation of China's creative spirit. They are omnipresent, baked into the warp and woof of China's social, political and industrial fabric. They include: non-existent intellectual property protection; defanged commercial courts beholden to local party interests; ambiguous eminent domain regulations; a rigid financial system designed to advance state interests; massive state-enforced capital misallocation; and media controls that pre-empt free flow of information, the life blood of creativity ideation.
+
+China's elemental problem, however, is cultural -- a national "trust deficit." For thousands of years, China has been closed society and, today, so are its corporations. The Middle Kingdom lacks dynamic "networks" that stimulate new ideas and the dynamic collaboration required to harvest them. A few years ago, New York Times columnist David Brooks put his finger on an enduring American competitive advantage:
+
+"The United States is a universal nation. There are already people there with connections all over the world. A nation of immigrants is more permeable than say, Chinese society...Americans build large, efficient organizations that are not bound by the circles of kinship and clan. Study after study finds that Americans are not hierarchical. American children are raised to challenge their parents. American underlings are relatively free to challenge their bosses. In this country you're less likely to have to submit to authority."
+
+The Chinese, defensive and protective, are culturally -- and, therefore, institutionally -- averse to ideas that buck against convention. Chinese CEOs surround themselves with yes-men, allied by blood or geography. The boards of, say, Fujian-based private enterprises are dominated by Fujianese. Within organizations, territorialism is rife. Sales managers vigilantly protect turf, minimizing cross-department teamwork. Resources are rarely pooled for innovation, leading to chronic short-termism. Subordinates, anxious about losing face, never counter senior managers, particularly on "subjective" matters impervious to "proof." Deals with foreign joint venture partners are tortuously negotiated because a win-win mindset is never taken for granted.
+
+China's ossified institutions are reinforced by Xi Jinping's anxiously aggressive regime. But sustainable value creation will depend on the Communist Party resisting an instinctive urge to control -- to have the final say on -- every matter of strategic significance.
+
+Today it's still, "Patents, yes; ideas, no so much."
+
+It can only be hoped the China's summer of tribulation has spurred the central government to reassess is current repressive -- and actually fear-driven -- course.
+
+In Confucian societies, the need to maintain stability is not up for debate. Jeffersonian democracy, born of the Enlightenment, has little relevance, even among internationalized "Post 9os" youth. But the country's institutions need to evolve with the times, lest the Chinese people lose faith in government's ability to slowly but surely implement an economic agenda that bets on genuine innovation to improve the lives -- and the economic prospects -- of both the ambitious middle class and the striving masses.
+
+In paternalistic China, change has to start at the top. If Xi Jinping can be, against all odds, persuaded to dilute Party omnipotence, China might indeed become a place where new ideas flourish to achieve critical mass. If not, let's fasten our seat belts and prepare for a bumpy ride.
+

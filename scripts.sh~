@@ -1,0 +1,5 @@
+for dir in corpora/*
+do 
+    echo $dir | cut -d "/" -f 2
+
+done
