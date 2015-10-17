@@ -1,17 +1,17 @@
 {
-	"name": "URUnique",
+	"name": "Censord",
 	"version": "1.0",
 	"manifest_version": 2,
 	"description": "This is an anti-bullying tool.",
 	"browser_action": {
 		"default_icon": "Icon.png",
-		"default_title": "URUnique",
-		"default_popup": "UniquePopup.html"
+		"default_title": "Censord",
+		"default_popup": "censordPopup.html"
 	},
 	"content_scripts": [
 		{
 			"matches": ["*://*/*"],
-			"js": ["UniqueContent.js"],
+			"js": ["censordContent.js"],
 			"run_at": "document_end"
 		}
 	]

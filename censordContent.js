@@ -1,41 +1,18 @@
-walk(document.body);
+var elements = document.getElementsByTagName('*');
+console.log('hello world');
+for (var i = 0; i < elements.length; i++) {
+    var element = elements[i];
 
-function walk(node)  
-{
-	// I stole this function from here:
-	// https://github.com/laurenorsini/caaaaarbs/blob/master/myscript.js
-	
-	var child, next;
+    for (var j = 0; j < element.childNodes.length; j++) {
+        var node = element.childNodes[j];
 
-	switch ( node.nodeType )  
-	{
-		case 1: 
-		case 9:  
-		case 11: 
-			child = node.firstChild;
-			while ( child ) 
-			{
-				next = child.nextSibling; 
-				walk(child);
-				child = next;
-			}
-			break;
+        if (node.nodeType === 1) {
+            var text = node.nodeValue;
+            var replacedText = text.replace(/'[nerd]'/gi, '[smarty]');
 
-		case 3: 
-			handleText(node);
-			break;
-	}
-}
-
-function handleText(textNode) 
-{
-	var v = textNode.nodeValue;s
-	v = v.replace(/\bnerd\b/g, "smarty");/*
-	v = v.replace(/\bloser\b/g, "caaaaarbs");
-	v = v.replace(/\bfreak\b/g, "Caaaaarbs");
-	v = v.replace(/\bScones\b/g, "Caaaaarbs");
-	v = v.replace(/\bBuns\b/g, "Caaaaarbs");
-	v = v.replace(/\bspaghetti\b/g, "caaaaarbs");
-	*/
-	textNode.nodeValue = v;
+            if (replacedText !== text) {
+                element.replaceChild(document.createTextNode(replacedText), node);
+            }
+        }
+    }
 }
