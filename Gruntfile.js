@@ -2,11 +2,15 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-browserify');
   grunt.loadNpmTasks('grunt-contrib-copy');
+  grunt.loadNpmTasks('grunt-contrib-clean');
 
-  grunt.registerTask('default', ['copy', 'browserify', 'watch']);
+  grunt.registerTask('default', ['clean', 'copy', 'browserify', 'watch']);
 
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
+    clean: {
+      js: 'lib/content.js'
+    },
     copy: {
       main: {
         files: [
@@ -16,8 +20,8 @@ module.exports = function(grunt) {
     },
     browserify: {
       main: {
-        src: 'src/censordContent.js',
-        dest: 'lib/censordContent.js'
+        src: 'src/content.js',
+        dest: 'lib/content.js'
       }
     },
     watch: {
