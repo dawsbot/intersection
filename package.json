@@ -22,7 +22,8 @@
   "homepage": "https://github.com/dawsonbotsford/censord#readme",
   "dependencies": {
     "bayes": "0.0.4",
-    "findandreplacedomtext": "^0.4.4"
+    "findandreplacedomtext": "^0.4.4",
+    "fs": "0.0.2"
   },
   "devDependencies": {
     "ansi-styles": "^2.1.0",
