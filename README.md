@@ -29,12 +29,13 @@ Newspapers have always organized articles into particular genres, so why has the
 
 <br>
 ## Hackers
-Install ```wget```, node, and npm first.
+Install node and npm first.
 
 ```bash
-git clone git@github.com:dawsonbotsford/intergenre.git
+git clone https://github.com/dawsonbotsford/intergenre.git
 cd intergenre
 npm install
+npm install -g grunt
 grunt
 ```
 
