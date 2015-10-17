@@ -1,0 +1,18 @@
+{
+	"name": "URUnique",
+	"version": "1.0",
+	"manifest_version": 2,
+	"description": "This is an anti-bullying tool.",
+	"browser_action": {
+		"default_icon": "Icon.png",
+		"default_title": "URUnique",
+		"default_popup": "UniquePopup.html"
+	},
+	"content_scripts": [
+		{
+			"matches": ["*://*/*"],
+			"js": ["UniqueContent.js"],
+			"run_at": "document_end"
+		}
+	]
+}
