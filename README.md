@@ -40,4 +40,4 @@ grunt
 ```
 
 <br>
-Load the extension by selecting *Load unpacked extension* from the chrome extension page (available at chrome://extensions/), and select the ```lib`` folder.
+Load the extension by selecting *Load unpacked extension* from the Chrome Extension page (available at chrome://extensions/), and seloct the ```lib``` folder.
