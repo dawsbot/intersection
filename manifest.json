@@ -1,17 +1,17 @@
 {
-	"name": "Censord",
-	"version": "1.0",
+	"name": "intergenre",
+	"version": "0.0.0",
 	"manifest_version": 2,
-	"description": "This is an anti-bullying tool.",
+	"description": "Providing genre recognition to the internet at large via a Chrome Extension.",
 	"browser_action": {
 		"default_icon": "Icon.png",
-		"default_title": "Censord",
-		"default_popup": "censordPopup.html"
+		"default_title": "Intergenre",
+		"default_popup": "popup.html"
 	},
 	"content_scripts": [
 		{
 			"matches": ["*://*/*"],
-			"js": ["censordContent.js"],
+			"js": ["content.js"],
 			"run_at": "document_end"
 		}
 	]
