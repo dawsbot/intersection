@@ -23,7 +23,7 @@ var classification = classifier.categorize(body);
 if (true) {
 	var para = document.createElement("p");
 	para.id = 'genreID'
-	var node = document. createTextNode ("The genre of this document is: " + classification);
+	var node = document. createTextNode ("Genre: " + classification);
 	para.appendChild(node);
 	
 	var element = document.body;
