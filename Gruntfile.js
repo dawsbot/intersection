@@ -36,7 +36,7 @@ module.exports = function(grunt) {
       }
     },
     watch: {
-      files: ['src/*.js','./buildJSON.js', 'corpora/*'],
+      files: ['**/*'],
       tasks: ['default']
     }
   });
