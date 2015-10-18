@@ -4,7 +4,7 @@
 	"manifest_version": 2,
 	"description": "Providing genre recognition to the internet at large via a Chrome Extension.",
 	"browser_action": {
-		"default_icon": "Icon.png",
+		"default_icon": "img/icon.png",
 		"default_title": "Intergenre",
 		"default_popup": "popup.html"
 	},
