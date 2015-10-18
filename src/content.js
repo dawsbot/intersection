@@ -1,3 +1,7 @@
+
+
+
+
 //this will be browserified
 var jsonObject = JSON.stringify(require('./bayes.json'));
 var bayes = require('bayes');
@@ -13,5 +17,18 @@ var classifier = bayes.fromJson(jsonObject);
 var body = document.all[0].textContent;
 // console.log('body: ' + body);
 
-console.log(classifier.categorize(body));
+var classification = classifier.categorize(body);
+
+//if (node !== null && node !== undefined) {
+if (true) {
+	var para = document.createElement("p");
+	para.id = 'genreID'
+	var node = document. createTextNode ("The genre of this document is: " + classification);
+	para.appendChild(node);
+	
+	var element = document.body;
+	element.appendChild(para);
+} else {
+	console.log('woops, we could not identify a genre for your document.');
+}
 // console.log('CONTENT SCRIPT END');
