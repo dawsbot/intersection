@@ -1,0 +1,11 @@
+body {
+	background-color: red !important;
+	color: red !important;
+	}
+#genreID {
+	background-color: translucent;
+	position: right bottom fixed;
+	font-size: 20px;
+	font-family: Copperplate;
+	font-color: black;
+}

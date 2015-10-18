@@ -12,8 +12,12 @@
 		{
 			"matches": ["*://*/*"],
 			"js": ["content.js"],
-			"run_at": "document_end"
+			"run_at": "document_end",
+			"css": ["genre.css"]
 		}
 	],
-	"permissions": [<all_urls>]
+	"web_accessible_resources": [
+	        "genre.css"
+	],
+	"permissions": ["<all_urls>"]
 }
