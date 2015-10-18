@@ -20,4 +20,4 @@ classifier.learn(tech, 'tech');
 
 // console.log(classifier.categorize('Today on wall street enron closed it\'s doors for the last time. There was a massive case of money laundering which forced the large electic company to lay off thousands of employees.'));
 
-fs.writeFileSync('./lib/bayes.json', classifier.toJson());
+fs.writeFileSync('src/bayes.json', classifier.toJson().toString());
