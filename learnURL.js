@@ -1,10 +1,10 @@
 #! /usr/bin/env node
 var fs = require('fs');
-var bayes = require('bayes');
+//var bayes = require('bayes');
 
-var bayesObj = JSON.stringify(require("./src/bayes.json"));
+//var bayesObj = JSON.stringify(require("./src/bayes.json"));
 
-var classifier = bayes.fromJson(bayesObj);
+//var classifier = bayes.fromJson(bayesObj);
 var htmlToText = require("html-to-text");
 var request = require('request');
 
@@ -29,8 +29,8 @@ request(url,function(error,response,body){
 	
 	var text = htmlToText.fromString(raw,{wordwrap:false,ignoreHref:true,ignoreImage:true});
 	text = text.replace(/(\r\n|\n|\r)/gm," ");
-	classifier.learn(text,genre);
-	fs.writeFileSync('src/bayes.json', classifier.toJson().toString());
+	//classifier.learn(text,genre);
+	fs.appendFileSync('corpora/'+genre+".txt", text);
 
 	console.log("Learned data for "+genre);
 });

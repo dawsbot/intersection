@@ -20,7 +20,7 @@ var body = document.all[0].textContent;
 var classification = classifier.categorize(body);
 
 //if (node !== null && node !== undefined) {
-if (true) {
+if (classification) {
 	var para = document.createElement("p");
 	para.id = 'genreID'
 	var node = document. createTextNode ("Genre: " + classification);
