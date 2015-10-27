@@ -10,6 +10,7 @@ var request = require('request');
 
 var url = process.argv[2];
 var genre = process.argv[3];
+process.setMaxListeners(0);
 
 if (!url){
 	console.log("Must include a url");
@@ -31,4 +32,5 @@ request(url,function(error,response,body){
 	classifier.learn(text,genre);
 	fs.writeFileSync('src/bayes.json', classifier.toJson().toString());
 
+	console.log("Learned data for "+genre);
 });
