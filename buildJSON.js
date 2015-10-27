@@ -10,6 +10,7 @@ var humor = fs.readFileSync('./corpora/humor.txt', 'utf-8');
 var politics = fs.readFileSync('./corpora/politics.txt', 'utf-8');
 var science = fs.readFileSync('./corpora/science.txt', 'utf-8');
 var tech = fs.readFileSync('./corpora/tech.txt', 'utf-8');
+var sports = fs.readFileSync("./corpora/sports.txt","utf-8");
 
 classifier.learn(arts, 'arts');
 classifier.learn(business, 'business');
@@ -17,6 +18,7 @@ classifier.learn(humor, 'humor');
 classifier.learn(politics, 'politics');
 classifier.learn(science, 'science');
 classifier.learn(tech, 'tech');
+classifier.learn(sports,"sports");
 
 // console.log(classifier.categorize('Today on wall street enron closed it\'s doors for the last time. There was a massive case of money laundering which forced the large electic company to lay off thousands of employees.'));
 
