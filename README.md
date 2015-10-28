@@ -52,3 +52,18 @@ grunt
 
 <br>
 Load the extension by selecting *Load unpacked extension* from the Chrome Extension page (available at chrome://extensions in your browser), and select the ```lib``` folder.
+
+### Learning from URL's
+You might want to help out by training the dataset. To do this follow these steps:
+ > Find an article in one of our genres: ("humor","tech","arts","business","politics","science","sports")
+ > Copy the url of that article, for example, in business, this article: http://www.businessinsider.com/apple-just-reported-the-biggest-annual-profit-in-history-2015-10
+ > When in the root directory run this command:
+ ```bash
+node learnURL.js http://www.businessinsider.com/apple-just-reported-the-biggest-annual-profit-in-history-2015-10 business
+ ```
+ > This adds the plain text of the web page to the training data sets in "corpora/*"
+
+More generally, the command to add a web page to the training set is:
+```bash
+node learnURL.js <url> <genre>
+```
