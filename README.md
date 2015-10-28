@@ -58,9 +58,9 @@ You might want to help out by training the dataset. To do this follow these step
  1. Find an article in one of our genres: ("humor","tech","arts","business","politics","science","sports")
  2. Copy the url of that article, for example, in business, this article: http://www.businessinsider.com/apple-just-reported-the-biggest-annual-profit-in-history-2015-10
  3. When in the root directory run this command:
- ```bash
-node learnURL.js http://www.businessinsider.com/apple-just-reported-the-biggest-annual-profit-in-history-2015-10 business
- ```
+  * ```bash
+    node learnURL.js http://www.businessinsider.com/apple-just-reported-the-biggest-annual-profit-in-history-2015-10 business
+    ```
  4. This adds the plain text of the web page to the training data sets in 'corpora/*'
 
 The command to add a web page to the training set is:
