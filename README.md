@@ -34,7 +34,7 @@ Newspapers have always organized articles into particular genres, so why has the
 <br>
 ##Install
 ```bash
-git clone https://github.com/dawsonbotsford/intergenre.git
+git clone https://github.com/dawsonbotsford/intersection.git
 ```
 Load the extension by selecting "*Load unpacked extension*" from the Chrome Extension page (available at chrome://extensions/), and select the ```lib``` folder.
 
@@ -43,8 +43,8 @@ Load the extension by selecting "*Load unpacked extension*" from the Chrome Exte
 Install node and npm first.
 
 ```bash
-git clone https://github.com/dawsonbotsford/intergenre.git
-cd intergenre
+git clone https://github.com/dawsonbotsford/intersection.git
+cd intersection
 npm install
 npm install -g grunt
 grunt
