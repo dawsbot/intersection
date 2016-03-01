@@ -1,13 +1,13 @@
 #genreID {
-    position: fixed !important;
-    top: 10px !important;
-    right: 10px !important;
-    background-color: whitesmoke !important;
-    padding: 10px !important;
-    border-color: black !important;
-    border-width: 1px !important;
-    border-style: solid !important;
-	font-family: Copperplate !important;
-	font-size: 15px !important;
-	font-color: #000000 !important;
+  position: fixed !important;
+  top: 10px !important;
+  right: 10px !important;
+  background-color: whitesmoke !important;
+  padding: 10px !important;
+  border-color: black !important;
+  border-width: 1px !important;
+  border-style: solid !important;
+  font-family: Copperplate !important;
+  font-size: 15px !important;
+  font-color: #000000 !important;
 }
