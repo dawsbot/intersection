@@ -1,9 +1,9 @@
 {
 	"name": "Intergenre",
 	"version": "0.0.0",
-	"manifest_version": 2,
+	"manifest_version": 3,
 	"description": "Providing genre recognition to the internet at large via a Chrome Extension.",
-	"browser_action": {
+	"action": {
 		"default_icon": "img/intersection.png",
 		"default_title": "Intergenre",
 		"default_popup": "popup.html"
@@ -17,7 +17,10 @@
 		}
 	],
 	"web_accessible_resources": [
-	        "genre.css"
+		{
+			"resources": ["genre.css"],
+			"matches": ["<all_urls>"]
+		}
 	],
-	"permissions": ["<all_urls>"]
+	"host_permissions": ["<all_urls>"]
 }
