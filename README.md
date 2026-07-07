@@ -24,21 +24,18 @@
 
 ## Why
 Newspapers have always organized articles into particular genres, so why has the internet never been organized this way?
-<br>
 <p align="center">
-  <b>See what genre the current page without reading a line.</b>
+  <b>See what genre the current page is without reading a line.</b>
 </p>
-<br>
 
-
-<br>
 ## Install
+
 ```bash
 git clone https://github.com/dawsbot/intersection.git
 ```
-Load the extension by selecting "*Load unpacked extension*" from the Chrome Extension page (available at chrome://extensions/), and select the ```lib``` folder.
 
-<br>
+Load the extension by selecting "*Load unpacked extension*" from the Chrome Extension page (available at chrome://extensions/), and select the `lib` folder.
+
 ## Hackers
 Install node and npm first.
 
@@ -50,8 +47,7 @@ npm install -g grunt
 grunt
 ```
 
-<br>
-Load the extension by selecting *Load unpacked extension* from the Chrome Extension page (available at chrome://extensions in your browser), and select the ```lib``` folder.
+Load the extension by selecting *Load unpacked extension* from the Chrome Extension page (available at chrome://extensions in your browser), and select the `lib` folder.
 
 ## Learning from URL's
 You might want to help out by training the dataset. To do this follow these steps:
@@ -67,4 +63,3 @@ The command to add a web page to the training set is:
 ```bash
 node learnURL.js <url> <genre>
 ```
-<br>
